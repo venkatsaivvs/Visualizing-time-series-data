@@ -5,3 +5,6 @@ Dygraphs: The dygraphs package is an R interface to the dygraphs JavaScript char
 •	Highly configurable axis and series display.
 •	Rich interactive features including zoom/pan and series/point highlighting
 
+
+![accident](https://cloud.githubusercontent.com/assets/17242464/21290510/56caf2e0-c48b-11e6-9a56-a447fc7310a6.png)
+
